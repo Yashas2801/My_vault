@@ -1,4 +1,4 @@
-# 🌿 Welcome to My VLSI Vault
+# ⚡ Welcome to My VLSI Vault
 
 This is my digital garden where I document my learning and insights into VLSI, Hardware Verification, and Digital Logic Design.
 
