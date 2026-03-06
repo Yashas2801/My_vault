@@ -9,3 +9,10 @@ tsconfig.tsbuildinfo
 private/
 .replit
 replit.nix
+# Syncthing
+.stfolder
+.stfolder.removed-*
+# Obsidian
+.trash
+# Base files (Syncthing artifacts)
+*.base
