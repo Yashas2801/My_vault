@@ -36,12 +36,16 @@ When you finish writing in Obsidian, follow these steps to update the web:
 Because your notes are on GitHub, you can easily work on them from any PC.
 
 ### 1. Initial Setup (First time on a new PC)
-1.  **Clone the Repo**:
+1.  **Save your Token**: Save your GitHub token in a text file (e.g., `~/github_token.txt`).
+2.  **Clone the Repo**:
+    Open your terminal and run:
     ```bash
-    cd ~/Documents
-    git clone https://github.com/Yashas2801/My_vault.git my-vault-site
+    TOKEN=$(cat ~/github_token.txt)
+    git clone https://$TOKEN@github.com/Yashas2801/My_vault.git ~/Documents/my-vault-site
     ```
-2.  **Open in Obsidian**: Open the folder `~/Documents/my-vault-site/content` as a new vault.
+    *This "embeds" the token so you don't have to type it again.*
+
+3.  **Open in Obsidian**: Open the folder `~/Documents/my-vault-site/content` as a new vault.
 
 ### 2. Daily Syncing (The "Pull/Push" Workflow)
 Before you start writing on a different PC, always **Pull** the latest changes:
