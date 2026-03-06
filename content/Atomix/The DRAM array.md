@@ -17,14 +17,14 @@ Tags: #dram #architecture
 Each cell sits at the intersection of a **wordline** and **bitline**.
 
 ```
-						C1         C2         C3         C4
-	                 Bitline0   Bitline1   Bitline2   Bitline3
-	                    |          |          |          |
-	                    |          |          |          |
-R1	Wordline0  ----   [C]T       [C]T       [C]T       [C]T
-R2	Wordline1  ----   [C]T       [C]T       [C]T       [C]T
-R3	Wordline2  ----   [C]T       [C]T       [C]T       [C]T
-R4	Wordline3  ----   [C]T       [C]T       [C]T       [C]T
+                        C1         C2         C3         C4
+                     Bitline0   Bitline1   Bitline2   Bitline3
+                        |          |          |          |
+                        |          |          |          |
+R1  Wordline0  ----   [C]T       [C]T       [C]T       [C]T
+R2  Wordline1  ----   [C]T       [C]T       [C]T       [C]T
+R3  Wordline2  ----   [C]T       [C]T       [C]T       [C]T
+R4  Wordline3  ----   [C]T       [C]T       [C]T       [C]T
 
                        SA         SA         SA         SA
                         |          |          |          |
