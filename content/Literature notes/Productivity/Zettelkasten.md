@@ -1,5 +1,4 @@
 
----
 03-03-2025 09:48
 Tags: #productivity 
 ## What is Zettelkasten?

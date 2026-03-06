@@ -1,5 +1,4 @@
 
----
 03-03-2025 09:48
 ## What is Zettelkasten?
 - way of taking down small notes written in your own words (**Zettels**) and linking them together.
