@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "Yashas2801.github.io",
+    baseUrl: "Yashas2801.github.io/My_vault",
     ignorePatterns: ["private", "templates", "Template", ".obsidian", ".trash", ".stfolder", ".stfolder.removed-*", "Untitled*.base"],
     defaultDateType: "modified",
     theme: {
