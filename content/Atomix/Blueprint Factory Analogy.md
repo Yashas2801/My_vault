@@ -1,3 +1,9 @@
+2026-03-10 17:30
+
+Status: #done
+
+Tags: #ddr
+
 # The Blueprint Factory Analogy
 
 Imagine you are ordering a massive, multi-page blueprint (your data) from a high-tech factory (your DRAM chip).

@@ -9,7 +9,6 @@ This is my digital garden where I document my learning and insights into VLSI, H
 ### [SystemVerilog (SV)](Literature%20notes/VLSI/SV/)
 - [[Literature notes/VLSI/SV/oops basics|OOPS Basics]]
 - [[Literature notes/VLSI/SV/Constraints|Constraints]]
-- [[Literature notes/VLSI/SV/Interface|Interfaces]]
 
 ### [Universal Verification Methodology (UVM)](Literature%20notes/VLSI/UVM/)
 - [[Literature notes/VLSI/UVM/UVM Factory|UVM Factory]]

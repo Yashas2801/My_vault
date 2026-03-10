@@ -17,11 +17,11 @@ DDR focuses on improving **Bandwidth** (the volume of data moved per second) rat
 ## What is DDR?
 **Double Data Rate Synchronous Dynamic Random Access Memory** (DDR SDRAM) differs from Single Data Rate (SDR) by transferring data on both the **rising and falling edges** of the clock signal. This effectively doubles the bandwidth for the same clock frequency.
 
-| Feature | SDR | DDR |
-| :--- | :--- | :--- |
-| **Clock Edges** | Rising Only | Rising & Falling |
-| **Transfers/Cycle** | 1 | 2 |
-| **Power Efficiency**| Lower | Higher (same bandwidth at half freq) |
+| Feature              | SDR         | DDR                                  |
+| :------------------- | :---------- | :----------------------------------- |
+| **Clock Edges**      | Rising Only | Rising & Falling                     |
+| **Transfers/Cycle**  | 1           | 2                                    |
+| **Power Efficiency** | Lower       | Higher (same bandwidth at half freq) |
 
 - *See also:* [[What is DDR?]], [[SDR vs DDR]]
 
@@ -50,17 +50,24 @@ Memory is organized into a 2D matrix of **Wordlines** (rows) and **Bitlines** (c
 
 ---
 
+## The Command Lifecycle
+DRAM banks require a specific sequence of commands to access data. The core transaction lifecycle involves activating a row, reading or writing columns, and then precharging the bank to close the row.
+
+- *See also:* [[DDR Commands]]
+
+---
+
 ## Bandwidth and Generations
 DDR has evolved through several generations, primarily by increasing the **Prefetch** (how many bits are fetched internally per external access) and reducing operating voltage.
 
 ### Evolution Table
-| Gen | Typical Speed | Prefetch | Voltage |
-| :--- | :--- | :--- | :--- |
-| **DDR** | 200-400 MT/s | 2-bit | 2.5V |
-| **DDR2** | 400-800 MT/s | 4-bit | 1.8V |
-| **DDR3** | 800-1600 MT/s | 8-bit | 1.5V |
-| **DDR4** | 1600-3200 MT/s | 8-bit+ | 1.2V |
-| **DDR5** | 4800+ MT/s | 16-bit | 1.1V |
+| Gen      | Typical Speed  | Prefetch | Voltage |
+| :------- | :------------- | :------- | :------ |
+| **DDR**  | 200-400 MT/s   | 2-bit    | 2.5V    |
+| **DDR2** | 400-800 MT/s   | 4-bit    | 1.8V    |
+| **DDR3** | 800-1600 MT/s  | 8-bit    | 1.5V    |
+| **DDR4** | 1600-3200 MT/s | 8-bit+   | 1.2V    |
+| **DDR5** | 4800+ MT/s     | 16-bit   | 1.1V    |
 
 **Bandwidth Calculation**:  
 $\text{Bandwidth (GB/s)} = \frac{\text{Transfer Rate (MT/s)} \times \text{Bus Width (bits)}}{8 \times 1000}$
