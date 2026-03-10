@@ -14,12 +14,18 @@ This is my digital garden where I document my learning and insights into VLSI, H
 - [[Literature notes/VLSI/UVM/UVM Factory|UVM Factory]]
 - [[Literature notes/VLSI/UVM/UVM TLM|UVM TLM]]
 - [[Literature notes/VLSI/UVM/UVM RAL|UVM RAL]]
+- [[Literature notes/VLSI/UVM/Field Macros|Field Macros]]
+
+### [Verilog](Literature%20notes/VLSI/Verilog/)
+- [[Literature notes/VLSI/Verilog/Procedural Assignments|Procedural Assignments]]
 
 ### [Protocols](Literature%20notes/VLSI/Protocols/)
 - [[Literature notes/VLSI/Protocols/APB_GPIO/APB Slave|APB Slave]]
 
 ### [Memory & DDR](Literature%20notes/VLSI/DDR/)
 - [[Literature notes/VLSI/DDR/DDR fundamentals|DDR Fundamentals]]
+- [[Literature notes/VLSI/DDR/Stage 1.3 - DRAM array and row buffer|DRAM Array & Row Buffer]]
+- [[Literature notes/VLSI/DDR/1.4 DDR Command Model|DDR Command Model]]
 
 ---
 
@@ -27,6 +33,9 @@ This is my digital garden where I document my learning and insights into VLSI, H
 - [[Atomix/|Atomic Notes (Zettelkasten)]] — Granular, self-contained concepts.
 - [[Literature notes/|Literature Notes]] — Synthesized knowledge from books & courses.
 - [[Indexes/systemverilog|SystemVerilog Index]] — Quick reference.
+- [[Indexes/ddr|DDR Index]] — Comprehensive memory guide.
+- [[Indexes/uvm|UVM Index]] — Verification methodology overview.
+
 
 ---
 
