@@ -48,4 +48,4 @@ Row switching is expensive.
 
 * [[DDR - Row buffer and sense amplifiers]]
 * [[DDR - ACT opens a row not a bit]]
-* [[Stage 1.3 - DRAM array and row buffer]]
+* [[DRAM array and row buffer]]

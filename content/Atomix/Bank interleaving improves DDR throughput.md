@@ -18,4 +18,4 @@ Bank 1:      ACT ---- wait ---- RD ---- PRE
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]

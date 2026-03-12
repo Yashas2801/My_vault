@@ -23,6 +23,6 @@ Req  = row 220 -> PRE -> ACT row 220 -> RD/WR
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]
 * [[ACT opens a row into the row buffer]]
 * [[PRE closes the row and equalizes the bitlines]]

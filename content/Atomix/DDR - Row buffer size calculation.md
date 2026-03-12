@@ -72,4 +72,4 @@ The row buffer calculation is first done per chip, not per rank.
 
 * [[DDR - Row buffer and sense amplifiers]]
 * [[DDR - Rank relation to row buffer]]
-* [[Stage 1.3 - DRAM array and row buffer]]
+* [[DRAM array and row buffer]]

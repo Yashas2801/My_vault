@@ -21,7 +21,7 @@ row <-> row buffer
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]
 * [[RD reads columns from an already open row]]
 * [[WR writes through the active row buffer path]]
 * [[PRE closes the row and equalizes the bitlines]]

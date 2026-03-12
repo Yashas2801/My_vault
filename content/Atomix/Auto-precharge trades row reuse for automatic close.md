@@ -18,6 +18,6 @@ Use:        ACT -> RDA (closes automatically after read)
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]
 * [[PRE closes the row and equalizes the bitlines]]
 * [[Row hit vs row miss in DDR]]

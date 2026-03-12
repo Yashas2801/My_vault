@@ -12,4 +12,4 @@ Refresh is a maintenance operation, not an ordinary access, but it occupies the 
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]
