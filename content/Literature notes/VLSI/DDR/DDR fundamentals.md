@@ -2,8 +2,6 @@
 Status: #done
 Tags: #ddr #vlsi #memory
 
-# DDR SDRAM: A Comprehensive Overview
-
 DDR (Double Data Rate) SDRAM is the backbone of modern computing memory. It was developed to address the growing performance gap between CPUs and memory, known as the **Memory Wall**.
 
 ## The Problem: The Memory Wall

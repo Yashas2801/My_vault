@@ -1,4 +1,4 @@
-# DDR SDRAM Index
+ SDRAM Index
 
 A comprehensive guide to DDR SDRAM technology, from physics and cell architecture to command protocols and system-level performance.
 

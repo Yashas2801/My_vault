@@ -1,3 +1,7 @@
+2026-03-10 15:45
+Status: #done
+Tags: #ddr #vlsi #memory #timing
+
 # tWR - Write Recovery Time
 
 ### Definition

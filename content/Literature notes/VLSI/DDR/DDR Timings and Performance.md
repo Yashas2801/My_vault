@@ -1,5 +1,3 @@
-# DDR Timings and Performance
-
 DDR memory is governed by a strict set of timing parameters. These timings ensure that the physical analog operations (like sensing charge, precharging bitlines, and restoring data) complete safely before the next logical operation begins. 
 
 Timings are logically grouped into families based on the memory lifecycle stage they protect.

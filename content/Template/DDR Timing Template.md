@@ -1,3 +1,7 @@
+2026-03-10 15:45
+Status: #todo
+Tags: #ddr #vlsi #memory #timing
+
 # {{title}} - [Full Name]
 
 ### Definition
