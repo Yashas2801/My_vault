@@ -47,6 +47,9 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - [[MRS configures DRAM behavior]]
 - [[Bank interleaving improves DDR throughput]]
 
+### 5. Timings & Performance
+- [[DDR-Timing-tRCD|tRCD - Row to Column Delay]]
+
 ---
 
 ## 📈 Roadmap Status
