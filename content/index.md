@@ -26,6 +26,7 @@ This is my digital garden where I document my learning and insights into VLSI, H
 - [[Literature notes/VLSI/DDR/DDR fundamentals|DDR Fundamentals]]
 - [[Literature notes/VLSI/DDR/DRAM array and row buffer|DRAM Array & Row Buffer]]
 - [[Literature notes/VLSI/DDR/DDR Command Model|DDR Command Model]]
+- [[Literature notes/VLSI/DDR/DDR Timings and Performance|DDR Timings & Performance]]
 
 ---
 

@@ -8,6 +8,7 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - [[DDR fundamentals]] - The "Big Picture": Memory wall, SDR vs DDR, prefetch, and evolution.
 - [[DRAM array and row buffer]] - Deep dive into bank organization, activation, and row buffer dynamics.
 - [[DDR Command Model]] - The ACT -> RD/WR -> PRE lifecycle, bank interleaving, and configuration.
+- [[DDR Timings and Performance]] - Synthesis of timing parameters, grouped by lifecycle stages.
 
 ---
 
@@ -49,6 +50,17 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 
 ### 5. Timings & Performance
 - [[DDR-Timing-tRCD|tRCD - Row to Column Delay]]
+- [[DDR-Timing-CL|CL - CAS Latency]]
+- [[DDR-Timing-tRP|tRP - Row Precharge Time]]
+- [[DDR-Timing-tRAS|tRAS - Row Active Time]]
+- [[DDR-Timing-tRC|tRC - Row Cycle Time]]
+- [[DDR-Timing-tRRD|tRRD - Row to Row Delay]]
+- [[DDR-Timing-tFAW|tFAW - Four Activate Window]]
+- [[DDR-Timing-tCCD|tCCD - Column to Column Delay]]
+- [[DDR-Timing-tWTR|tWTR - Write to Read Delay]]
+- [[DDR-Timing-tWR|tWR - Write Recovery Time]]
+- [[DDR-Timing-tRTP|tRTP - Read to Precharge Delay]]
+- [[DDR-Timing-tRFC|tRFC - Refresh Cycle Time]]
 
 ---
 
@@ -56,4 +68,5 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - **Fundamentals & Cell Basics** (#done)
 - **DRAM Array & Row Buffer** (#done)
 - **DDR Command Model** (#done)
-- **Next**: Timings, scheduling, and controller behavior
+- **Timings & Performance** (#done)
+- **Next**: Controller scheduling and Address Mapping
