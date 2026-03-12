@@ -1,4 +1,4 @@
- SDRAM Index
+# DDR SDRAM Index
 
 A comprehensive guide to DDR SDRAM technology, from physics and cell architecture to command protocols and system-level performance.
 
@@ -22,7 +22,7 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - [[DDR Bandwidth and Generations]]
 - [[Blueprint Factory Analogy]]
 
-### 2. Physical Architecture & Hierarchy (Stage 1.6)
+### 2. Physical Architecture & Hierarchy
 - [[DDR memory hierarchy]]
 - [[Rank]]
 - [[Bank]]
