@@ -47,4 +47,4 @@ It is the active row currently held by the sense amplifiers.
 * [[DDR - Row buffer size calculation]]
 * [[DDR - Rank relation to row buffer]]
 * [[DDR - Row hit vs row miss]]
-* [[Stage 1.3 - DRAM array and row buffer]]
+* [[DRAM array and row buffer]]

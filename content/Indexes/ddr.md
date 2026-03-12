@@ -3,11 +3,11 @@
 A comprehensive guide to DDR SDRAM technology, from physics and cell architecture to command protocols and system-level performance.
 
 ## 📚 Literature Notes (Synthesis)
-Detailed overviews of core DDR concepts, organized by study stages.
+Detailed overviews of core DDR concepts, organized in a clean learning flow.
 
 - [[DDR fundamentals]] - The "Big Picture": Memory wall, SDR vs DDR, prefetch, and evolution.
-- [[Stage 1.3 - DRAM array and row buffer]] - Deep dive into bank organization, activation, and row buffer dynamics.
-- [[1.4 DDR Command Model]] - The ACT -> RD/WR -> PRE lifecycle, bank interleaving, and configuration.
+- [[DRAM array and row buffer]] - Deep dive into bank organization, activation, and row buffer dynamics.
+- [[DDR Command Model]] - The ACT -> RD/WR -> PRE lifecycle, bank interleaving, and configuration.
 
 ---
 
@@ -26,7 +26,7 @@ Detailed overviews of core DDR concepts, organized by study stages.
 - [[The DRAM array]]
 - [[DDR - DRAM array hierarchy]]
 
-### 3. Activation & Row Buffer (Stage 1.3)
+### 3. Activation & Row Buffer
 - [[DDR - ACT opens a row not a bit]]
 - [[DDR - Row buffer and sense amplifiers]]
 - [[DDR - Row address vs column address]]
@@ -34,7 +34,7 @@ Detailed overviews of core DDR concepts, organized by study stages.
 - [[DDR - Rank relation to row buffer]]
 - [[DDR - Row hit vs row miss]]
 
-### 4. Command Model & Lifecycle (Stage 1.4)
+### 4. Command Model & Lifecycle
 - [[DDR Commands]]
 - [[ACT opens a row into the row buffer]]
 - [[RD reads columns from an already open row]]
@@ -50,7 +50,7 @@ Detailed overviews of core DDR concepts, organized by study stages.
 ---
 
 ## 📈 Roadmap Status
-- **Stage 1.1 - 1.2**: Fundamentals & Cell Basics (#done)
-- **Stage 1.3**: DRAM Array & Row Buffer (#done)
-- **Stage 1.4**: DDR Command Model (#done)
-- **Stage 1.5**: Next (Timings, Scheduling, etc.)
+- **Fundamentals & Cell Basics** (#done)
+- **DRAM Array & Row Buffer** (#done)
+- **DDR Command Model** (#done)
+- **Next**: Timings, scheduling, and controller behavior

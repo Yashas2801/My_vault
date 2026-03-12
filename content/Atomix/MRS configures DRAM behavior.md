@@ -12,4 +12,4 @@ MRS is for initialization and configuration, establishing how the DRAM will resp
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]

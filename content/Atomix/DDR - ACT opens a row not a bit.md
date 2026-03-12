@@ -57,4 +57,4 @@ RD/WR use the open row.
 * [[DDR - Row buffer and sense amplifiers]]
 * [[DDR - Row address vs column address]]
 * [[DDR - Row hit vs row miss]]
-* [[Stage 1.3 - DRAM array and row buffer]]
+* [[DRAM array and row buffer]]

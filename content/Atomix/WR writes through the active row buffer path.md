@@ -21,6 +21,6 @@ controller data -> selected columns in row buffer path -> cells of open row
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]
 * [[ACT opens a row into the row buffer]]
 * [[RD reads columns from an already open row]]

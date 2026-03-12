@@ -12,5 +12,5 @@ Clears up the confusion that "closing" a row or precharging "resets" the actual 
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]
 * [[PRE closes the row and equalizes the bitlines]]

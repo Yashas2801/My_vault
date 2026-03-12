@@ -7,7 +7,7 @@ Tags: #ddr #vlsi #memory #architecture #row_buffer
 ## Purpose
 This chapter explains how DDR moves from single-cell physics to real bank/row/column access.
 
-Stage 1.3 in the roadmap focuses on:
+This chapter focuses on:
 - rows
 - columns
 - wordlines
@@ -33,7 +33,7 @@ Channel
             -> Column
 ```
 
-The important Stage 1.3 unit is the bank.
+The important unit here is the bank.
 
 Inside a bank:
 

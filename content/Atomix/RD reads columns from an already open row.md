@@ -18,6 +18,6 @@ RD col 20 reads from row 100, col 20 onward (burst)
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]
 * [[ACT opens a row into the row buffer]]
 * [[WR writes through the active row buffer path]]

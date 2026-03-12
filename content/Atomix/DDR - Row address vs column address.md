@@ -52,4 +52,4 @@ Column address = which place inside that open row to access
 * [[DDR - ACT opens a row not a bit]]
 * [[DDR - DRAM array hierarchy]]
 * [[DDR - Rank relation to row buffer]]
-* [[Stage 1.3 - DRAM array and row buffer]]
+* [[DRAM array and row buffer]]

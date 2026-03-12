@@ -65,4 +65,4 @@ It has one row buffer per chip, but together they behave like one rank-wide open
 * [[DDR - Row buffer size calculation]]
 * [[DDR - Row address vs column address]]
 * [[DDR - ACT opens a row not a bit]]
-* [[Stage 1.3 - DRAM array and row buffer]]
+* [[DRAM array and row buffer]]

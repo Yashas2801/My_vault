@@ -23,6 +23,6 @@ Bitlines equalized
 
 ## Links
 
-* [[1.4 DDR Command Model]]
+* [[DDR Command Model]]
 * [[PRE does not erase column data]]
 * [[ACT opens a row into the row buffer]]
