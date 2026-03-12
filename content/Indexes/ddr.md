@@ -9,6 +9,7 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - [[DRAM array and row buffer]] - Deep dive into bank organization, activation, and row buffer dynamics.
 - [[DDR Command Model]] - The ACT -> RD/WR -> PRE lifecycle, bank interleaving, and configuration.
 - [[DDR Timings and Performance]] - Synthesis of timing parameters, grouped by lifecycle stages.
+- [[DDR Memory Hierarchy]] - The structural organization from Channel down to Column.
 
 ---
 
@@ -21,7 +22,13 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - [[DDR Bandwidth and Generations]]
 - [[Blueprint Factory Analogy]]
 
-### 2. DRAM Cell & Array Physics
+### 2. Physical Architecture & Hierarchy (Stage 1.6)
+- [[DDR memory hierarchy]]
+- [[Rank]]
+- [[Bank]]
+- [[Row buffer]]
+- [[Column access]]
+- [[Burst length]]
 - [[DRAM Cell and Technology]]
 - [[DRAM Refresh and Destructive Read]]
 - [[The DRAM array]]
@@ -69,4 +76,5 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - **DRAM Array & Row Buffer** (#done)
 - **DDR Command Model** (#done)
 - **Timings & Performance** (#done)
-- **Next**: Controller scheduling and Address Mapping
+- **Memory Hierarchy** (#done)
+- **Next**: Address Mapping and Controller Scheduling
