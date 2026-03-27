@@ -10,6 +10,7 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - [[DDR Command Model]] - The ACT -> RD/WR -> PRE lifecycle, bank interleaving, and configuration.
 - [[DDR Timings and Performance]] - Synthesis of timing parameters, grouped by lifecycle stages.
 - [[DDR Memory Hierarchy]] - The structural organization from Channel down to Column.
+- [[C1 Interfaces around the DDR Controller]] - Boundary translation between SoC transactions and DDR protocols.
 
 ---
 
@@ -69,6 +70,18 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - [[DDR-Timing-tRTP|tRTP - Read to Precharge Delay]]
 - [[DDR-Timing-tRFC|tRFC - Refresh Cycle Time]]
 
+### 6. Memory Controller & Interfaces
+- [[DDR controller sits between AXI interconnect and DDR PHY]]
+- [[AXI side presents memory requests to the DDR controller]]
+- [[DDR controller translates system transactions into DDR command flow]]
+- [[DFI is the internal interface between DDR controller and DDR PHY]]
+- [[Controller and PHY split protocol and physical responsibilities]]
+- [[DDR PHY drives the external DDR4 SoDIMM interface]]
+- [[DDR controller is programmed through configuration registers]]
+- [[DDR controller depends on clock and reset sequencing]]
+- [[DDR controller internally contains arbitration scheduling and command generation]]
+- [[A read request travels AXI to controller to PHY to SoDIMM and back]]
+
 ---
 
 ## 📈 Roadmap Status
@@ -77,4 +90,5 @@ Detailed overviews of core DDR concepts, organized in a clean learning flow.
 - **DDR Command Model** (#done)
 - **Timings & Performance** (#done)
 - **Memory Hierarchy** (#done)
-- **Next**: Address Mapping and Controller Scheduling
+- **Controller & Interfaces (C1)** (#done)
+- **Next**: Internal Controller Pipeline (C2)

@@ -28,6 +28,7 @@ This is my digital garden where I document my learning and insights into VLSI, H
 - [[Literature notes/VLSI/DDR/DDR Command Model|DDR Command Model]]
 - [[Literature notes/VLSI/DDR/DDR Timings and Performance|DDR Timings & Performance]]
 - [[Literature notes/VLSI/DDR/DDR Memory Hierarchy|DDR Memory Hierarchy]]
+- [[Literature notes/VLSI/DDR/C1 Interfaces around the DDR Controller|DDR Controller Interfaces]]
 
 ---
 
